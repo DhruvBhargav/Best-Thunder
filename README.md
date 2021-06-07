@@ -1,2 +1,1 @@
-# Best-Thunder
-The Best
+# PROC41-Template
